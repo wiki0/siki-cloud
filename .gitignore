@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+/service-B/service-B.iml
+/service-A/service-A.iml
+/eureka-server/eureka-server.iml
+/api-gateway/api-gateway.iml
+/.idea/
