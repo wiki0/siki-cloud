@@ -4,3 +4,7 @@
 /eureka-server/eureka-server.iml
 /api-gateway/api-gateway.iml
 /.idea/
+api-gateway/target/
+eureka-server/target/
+service-A/target/
+service-B/target/
