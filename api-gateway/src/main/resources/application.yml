@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: api-gateway
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:1100/eureka/
+zuul:
+  routes:
+    user-route:
+      path: /user/**
+      service-id: service-a

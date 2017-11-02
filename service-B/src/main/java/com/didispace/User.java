@@ -1,4 +1,5 @@
 package com.didispace;
+
 import java.math.BigDecimal;
 
 public class User {
